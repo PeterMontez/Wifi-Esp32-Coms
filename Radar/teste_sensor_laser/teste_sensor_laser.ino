@@ -9,7 +9,6 @@ int distance;
 
 VL53L0X sensor;
 
-Servo myServo; // Creates a servo object for controlling the servo motor
 
 void setup()
 {
